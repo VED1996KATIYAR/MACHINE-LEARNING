@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="411b687a-e093-4fe5-addb-c22e4b8824c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MODULE-6 DATA PROCESSING IN PYTHON.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -32,6 +37,65 @@
     &quot;accountId&quot;: &quot;ed07e2ef-dfb8-4f10-a25c-4c642b56c011&quot;
   }
 }</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000584" />
+      <entry key="MS500" value="1.0023011411340033" />
+      <entry key="S2" value="1.3789794768065253" />
+      <entry key="S5" value="2.5434673856273164" />
+      <entry key="S10" value="3.8895281182859485" />
+      <entry key="S30" value="6.010174772654784" />
+      <entry key="S60" value="6.889647735640537" />
+      <entry key="M2" value="7.411874427802588" />
+      <entry key="M5" value="7.773635001141951" />
+      <entry key="M10" value="9.113495965752517" />
+      <entry key="M15" value="13.562753585079896" />
+      <entry key="M30" value="36.830045628734474" />
+      <entry key="H1" value="77.48021580891835" />
+      <entry key="H2" value="117.8612219213364" />
+      <entry key="H4" value="146.82189858695875" />
+      <entry key="D1" value="177.13610364184458" />
+      <entry key="W1" value="183.00165330158308" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.4415024743860663E-69" />
+      <entry key="MS500" value="2.0293157088034738E-14" />
+      <entry key="S2" value="3.7743085797323087E-4" />
+      <entry key="S5" value="0.042730203558993596" />
+      <entry key="S10" value="0.2067128529119406" />
+      <entry key="S30" value="0.5912745146753621" />
+      <entry key="S60" value="0.7689437656131703" />
+      <entry key="M2" value="0.8768944069090212" />
+      <entry key="M5" value="0.9520088659429976" />
+      <entry key="M10" value="1.2218262483008062" />
+      <entry key="M15" value="2.1450771844452112" />
+      <entry key="M30" value="6.951916058422747" />
+      <entry key="H1" value="15.150791040942195" />
+      <entry key="H2" value="23.135698650257975" />
+      <entry key="H4" value="28.795728141115934" />
+      <entry key="D1" value="34.6745029117774" />
+      <entry key="W1" value="35.80732719003512" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.284009370078358E-6" />
+      <entry key="MS500" value="0.0747064309387362" />
+      <entry key="S2" value="0.7707125562888499" />
+      <entry key="S5" value="2.137162334125351" />
+      <entry key="S10" value="3.7532973809168637" />
+      <entry key="S30" value="6.419454404895128" />
+      <entry key="S60" value="7.552955664276718" />
+      <entry key="M2" value="8.231549784674197" />
+      <entry key="M5" value="8.701565567525826" />
+      <entry key="M10" value="10.322178804766196" />
+      <entry key="M15" value="15.696646434102819" />
+      <entry key="M30" value="43.76952417608049" />
+      <entry key="H1" value="92.61847937697213" />
+      <entry key="H2" value="140.98743805095742" />
+      <entry key="H4" value="175.61171602700085" />
+      <entry key="D1" value="211.80941579890944" />
+      <entry key="W1" value="218.80880467674865" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -44,20 +108,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.four.executor": "Run",
     "Python.one.executor": "Run",
+    "Python.three.executor": "Run",
+    "Python.two.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/MY MEMORY/Complete tutetude/MACHINE LEARNING/LEARNING/MODULE-6 DATA PROCESSING IN PYTHON",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
